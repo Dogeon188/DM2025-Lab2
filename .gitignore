@@ -5,3 +5,6 @@ config/.env
 *.bin
 *.gz
 
+segmentation_outputs/
+logs/
+results/
